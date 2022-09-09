@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Print a string using put
- *
- * Return: "Programming is like building a multilingual puzzle
- */
-
+ *  * main - Entry point
+ *   *
+ *    * Return: Always 0
+ *     */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
 			return (0);
+}
